@@ -1,2 +1,2 @@
 # husen_github
-husen_github created by 2019-09-01
+husen_github was created by sep.01.2019
